@@ -1,5 +1,7 @@
 # 4580-FinalProject
 
+Note: The creation of this code was assisted by LLMs including ChatGPT and Gemini.
+
 The file "simulation.py" contains code to run a baseline simulation, with batching or will chunked prefill.
 
 The file "main_report.pdf" contains a summary report of main findings and a technical appendix
